@@ -1,7 +1,7 @@
 ***
 
 <p align="center">
-<a href="https://ibb.co/Xx8GtRnZ"><img src="https://i.ibb.co/8gcQ9ZyD/Rapid-Resolve.gif" alt="Rapid-Resolve"></a>
+  <img src="ASSETS/RapidResolve.gif" alt="Rapid Resolve" width="700">
 </p>
 
 ***
