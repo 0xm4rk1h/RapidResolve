@@ -1,6 +1,11 @@
 ***
-![Rapid Resolve](https://i.ibb.co/tpX1Dr0M/Rapid-Resolve.gif)
+
+<p align="center">
+<a href="https://ibb.co/Xx8GtRnZ"><img src="https://i.ibb.co/8gcQ9ZyD/Rapid-Resolve.gif" alt="Rapid-Resolve"></a>
+</p>
+
 ***
+
 # RapidResolve
 
 A console designed to help **Help Desk technicians** quickly access and use standardized message templates for efficient incident ticket handling.
